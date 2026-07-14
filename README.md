@@ -64,4 +64,5 @@ http://localhost:5173
 
 ## Author
 
-Rachana Hegde
+**Rachana Hegde**
+🔗 GitHub: [https://github.com/Rachana-Hegde](https://github.com/Rachana-Hegde)
